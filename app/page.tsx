@@ -28,7 +28,7 @@ export default function HawiyatLinktree() {
       color: "bg-[#66B3FF]", // Bright Facebook blue
     },
     {
-      title: "WhatsApp: +213 559 55 59 51",
+      title: "Whats: +213 559 55 59 51",
       url: "https://wa.me/213559555951",
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -38,7 +38,7 @@ export default function HawiyatLinktree() {
       color: "bg-[#66E3A2]", // Vibrant WhatsApp green
     },
     {
-      title: "WhatsApp: +213 674 67 84 94",
+      title: "Whats: +213 674 67 84 94",
       url: "https://wa.me/213674678494",
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
